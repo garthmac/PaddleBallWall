@@ -111,6 +111,28 @@
 			<string>PSSliderSpecifier</string>
 		</dict>
 		<dict>
+			<key>Title</key>
+			<string>Paddle Width</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<integer>80</integer>
+			<key>Key</key>
+			<string>Paddle.Width</string>
+			<key>MaximumValue</key>
+			<integer>160</integer>
+			<key>MaximumValueImage</key>
+			<string></string>
+			<key>MinimumValue</key>
+			<integer>40</integer>
+			<key>MinimumValueImage</key>
+			<string></string>
+			<key>Type</key>
+			<string>PSSliderSpecifier</string>
+		</dict>
+		<dict>
 			<key>AutocapitalizationType</key>
 			<string>AllCharacters</string>
 			<key>AutocorrectionType</key>
@@ -161,6 +183,28 @@
 			<string>Court Color</string>
 			<key>Type</key>
 			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Brick Corner Radius</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<integer>5</integer>
+			<key>Key</key>
+			<string>Corner.Radius</string>
+			<key>MaximumValue</key>
+			<integer>25</integer>
+			<key>MaximumValueImage</key>
+			<string></string>
+			<key>MinimumValue</key>
+			<integer>0</integer>
+			<key>MinimumValueImage</key>
+			<string></string>
+			<key>Type</key>
+			<string>PSSliderSpecifier</string>
 		</dict>
 		<dict>
 			<key>Title</key>
